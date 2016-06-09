@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Merciful]]></title>
         <description><![CDATA[Merciful]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/merciful/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 00:10:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 09 Jun 2016 00:11:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/merciful/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41a5ab3d-56e8-465c-9b12-32806ac465b1.png">]]></description>
-            <link>undefinedecb6e84a-248e-4b1f-b21b-891c8f99163e/index.html</link>
+            <link>https://thegrid.ai/merciful/ecb6e84a-248e-4b1f-b21b-891c8f99163e/index.html</link>
             <guid isPermaLink="false">ecb6e84a-248e-4b1f-b21b-891c8f99163e</guid>
-            <pubDate>Thu, 09 Jun 2016 00:10:28 GMT</pubDate>
+            <pubDate>Thu, 09 Jun 2016 00:11:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
