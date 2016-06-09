@@ -1,7 +1,7 @@
 name: Merciful
 favicon: null
-layout_spectrum: 0.14353380841203034
-typography_spectrum: 0.8685077517293394
+layout_spectrum: 0.39768
+typography_spectrum: 0.84789
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.09008412389084697
-  lightness: 0.24849320435896516
-  saturation: 0.28830516268499196
-  rhythmicContrast: 0.10943609266541898
+    - '#000002'
+    - '#5a3966'
+    - '#3c1541'
+    - '#815d8d'
+    - '#ad8eb5'
+  brandStrength: 0.5
+  lightness: 0.9375
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
